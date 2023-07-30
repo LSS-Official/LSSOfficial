@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    border: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.boost_emotional{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 800;
+    margin-top: 30px;
+}
+.importance{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 800;
+    margin-top: 15px;
+    color: darkblue;
+}
+.sports_000{
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 15px;
+}
+.sports_01{
+    background-image: url(sportsno1.jpg);
+    height: 400px;
+    background-size: cover;
+    margin-top: 15px;
+}
+.data_01{
+    font-size: 1rem;
+    margin-top: 15px;
+}
+.sports_02{
+    background-image: url(sportsno2.jpg);
+    height: 400px;
+    background-size: cover;
+    margin-top: 15px;
+}
+.sports_03{
+    background-image: url(sportsno3.jpg);
+    height: 400px;
+    background-size: cover;
+    margin-top: 15px;
+}
+.sports_04{
+    background-image: url(sportsno4.jpg);
+    height: 400px;
+    background-size: cover;
+    margin-top: 15px;
+}
+.sports_05{
+    background-image: url(sportsno5.jpg);
+    height: 400px;
+    background-size: cover;
+    margin-top: 15px;
+}
+.sports_06{
+    background-image: url(sportsno6.jpg);
+    height: 400px;
+    background-size: cover;
+    margin-top: 15px;
+}
+.sports_07{
+    background-image: url(pic_001.jpg);
+    height: 400px;
+    background-size: cover;
+    margin-top: 15px;
+}
+.sports_08{
+    background-image: url(pic_002.jpg);
+    height: 400px;
+    background-size: cover;
+    margin-top: 15px;
+}
+.sports_09{
+    background-image: url(pic_003.jpg);
+    height: 400px;
+    background-size: cover;
+    margin-top: 15px;
+}
+.sports_10{
+    background-image: url(pic_004.jpg);
+    height: 400px;
+    background-size: cover;
+    margin-top: 15px;
+}
+/* Footer */
+.footer_01{
+    background-color: rgb(53, 144, 197);
+    height: 400px;
+    color: white;
+    font-size: 0.85rem;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.f1,.f2,.f3,.f4{
+    padding-top: 60px;
+}
+.logooo{
+    background-image: url(logo.jpg);
+    height: 270px;
+    width: 200px;
+    background-size: cover;
+    margin-top: 60px;
+}
+.copyright{
+    height: 60px;
+    color: white;
+    background-color: rgb(7, 85, 180);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+}

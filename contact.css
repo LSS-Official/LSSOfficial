@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box
+}
+.logo{
+    background-image: url(logo.jpg);
+    height: 50px;
+    width: 40px;
+    background-size: cover;
+}
+.contact_bg{
+    background-image: url(contact_contact.jpg);
+    height: 600px;
+    background-size: cover;
+}
+.head_01_about{
+    font-size: 2rem;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 30px;
+}
+.head_data{
+    font-size: 1.2rem;
+    text-align: center;
+    margin-top: 15px;
+}
+.results_text{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 800;
+    margin-top: 30px;
+}
+.head_02_about{
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+.class_room{
+    text-align: center;
+    font-size: 5rem;
+    font-weight: 900;
+    margin-top: 30px;
+    color: #F5B233;
+}
+.class_room_data{
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 8px;
+    color: #898989;
+}
+.contact_end{
+    background-image: url(contact_contact_01.jpg);
+    height: 800px;
+    background-size: cover;
+}
+.data_000{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 900;
+    padding-top: 50px;
+    color: white;
+}
+.data_001{
+    text-align: center;
+    font-size: 1.1rem;
+    padding-top: 15px;
+    color: white;
+}
+.help_us_get_there{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 2rem;
+    font-weight: 800;
+}
+.content_more{
+    text-align: center;
+    margin-top: 12px;
+    font-size: 1.1rem;
+}
+.button_01{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 120px;
+    background-color: darkblue;
+    color: white;
+    border-radius: 12px;
+    text-decoration: none;
+}
+.border{
+    border: none;
+}
+.border:hover{
+    background-color: white;
+    color: darkblue;
+}
+.footer_01{
+    background-color: rgb(53, 144, 197);
+    height: 400px;
+    color: rgb(255, 255, 255);
+    font-size: 0.85rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.f1,.f2,.f3,.f4{
+    padding-top: 60px;
+}
+.logooo{
+    background-image: url(logo.jpg);
+    height: 270px;
+    width: 200px;
+    background-size: cover;
+    margin-top: 60px;
+}
+.copyright{
+    height: 60px;
+    color: white;
+    background-color: rgb(7, 85, 180);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+}
